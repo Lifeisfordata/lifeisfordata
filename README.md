@@ -9,7 +9,7 @@
 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
--  - [osTicket: Prerequisites and Installation](https://github.com/Lifeisfordata/Azure_Network_Protocols)
+-  - [osTicket: Prerequisites and Installation](https://github.com/Lifeisfordata/osTicket_prereq)
 
 
 <h2>🤳Connect with me:</h2>
