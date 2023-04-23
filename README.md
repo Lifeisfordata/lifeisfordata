@@ -8,8 +8,8 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Lifeisfordata/Azure_Network_Protocols)
 
 
-- <b>osTicket (Help Desk Ticketing System)</b>
--  - [osTicket: Prerequisites and Installation](https://github.com/Lifeisfordata/osTicket_prereq)
+- <b>Vulnerability Management</b>
+-  - [Nessus vulnerability scanning and remediation](https://github.com/Lifeisfordata/Nessus_vulnerability_management)
 
 
 <h2>🤳Connect with me:</h2>
