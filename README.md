@@ -5,7 +5,7 @@
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Lifeisfordata/Configure_Active_Directory)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Lifeisfordata/Azure_Network_Protocols)
 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
