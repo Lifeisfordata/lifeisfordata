@@ -8,7 +8,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Lifeisfordata/Azure_Network_Protocols)
 
 
-- <b>Vulnerability Management</b>
+- <b>Vulnerability Management Projects</b>
 -  - [Nessus vulnerability scanning and remediation](https://github.com/Lifeisfordata/Nessus_vulnerability_management)
 
 
